@@ -1,20 +1,10 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function1.php";
-echo "\n";
-echo "\e[96m            (SELAMAT DATANG BOSKUHH $input)               \n";
-echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
-echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
-echo color("yellow","[•] Time : ".date('[d-m-Y] [H:i:s]')." \n");
-echo color("purple","[•] WAITING PROSESSS ..... \n");
-echo color("yellow","[•] Ramz Tutorial Channel \n");
-echo color("green","[•] CARA MENULIS NOMOR PAKAI 62xxxxxxxxxx \n");
-echo color("red","[•] KALAU GK BISA PAKE AJA 08xxxxxxxx \n");
-echo color("nevy","[•] SCRIPT GRATIS RAMZ TUTORIAL \n");
-echo color("blue","[•] PAIDOMU MOTIVASIKU 🤣 \n");
-echo color("green","[•] JANGAN LUPA BERDOA SEBELUM CLAIM \n");
-echo color("blue","[•] SUROBOYO LOST BOJOMU SEMANGATKU WKWKW \n");
-echo color("red","# # # # # # # # # # # # # # # # # # # # # # # \n");
+echo color("red","KALO UDAH DI KASIH GRATIS TAU DIRI DONG BUAT MAKAN\n");
+echo color("red","JANGAN MARUK BUAT DOR RESTO SENDIRI GAKASIAN SAMA \n");
+echo color("white","SAMA YANG LEBIH MEMBUTUHKAN! RAKUS ITU TIDAK BERKAH\n");
+echo color("red","PEMBAJAKAN SCRIFT BY = X-NOIDENT!\n");
 // function change(){
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
