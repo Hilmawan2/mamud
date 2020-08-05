@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function1.php";
 echo "\n";
-echo "\e[96m            (SELAMAT DATANG BOSKUHH $input)               \n";
+echo "\e[96m            (SELAMAT DATANG BOSKUjshshsHH $input)               \n";
 echo "\e[89m▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n";
 echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
 echo color("yellow","[•] Time : ".date('[d-m-Y] [H:i:s]')." \n");
